@@ -27,7 +27,7 @@ To use this gallery in your project visit:
 
 ## Video Preview
 
-[![Watch the video](https://img.youtube.com/vi/VHbJPiFAEpA/0.jpg)](https://www.youtube.com/watch?v=VHbJPiFAEpA)
+[![Watch the video](https://img.youtube.com/vi/4lyTSzQz6SE/0.jpg)](https://www.youtube.com/watch?v=4lyTSzQz6SE)
 
 
 ## Contributing
